@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/vTpl8erhGJJDfJs4Cs/giphy.gif?cid=ecf05e471hcpp6fb1tecbxqjvcokuhdvbgz2m7tgrxtl1aor&ep=v1_stickers_related&rid=giphy.gif&ct=ts" />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVtc3V4NWdiY3lqNHFnZTh3eGE1dmJ1NWRlMW85NGQwOHBuNGJnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 ###
 
