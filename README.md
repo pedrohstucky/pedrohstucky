@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Pedro h. Stucky<br><br>I'm a passionate programming student with a focus on JavaScript, Node.js, and Java. I’m constantly exploring new technologies and building projects that help me grow as a developer. Whether it’s front-end development with JavaScript or back-end logic with Node.js and Java, I enjoy turning ideas into functional, efficient code.<br><br>🚀 What I'm working on:<br><br>    Enhancing my skills in full-stack development<br>    Building personal projects and contributing to open-source<br>  Learning best practices and modern design pattern.</p>
+<p align="left">I'm Pedro H. Stucky<br><br>I'm a passionate programming student with a focus on JavaScript, Node.js, and Java. I’m constantly exploring new technologies and building projects that help me grow as a developer. Whether it’s front-end development with JavaScript or back-end logic with Node.js and Java, I enjoy turning ideas into functional, efficient code.<br><br>🚀 What I'm working on:<br><br>    Enhancing my skills in full-stack development<br>    Building personal projects and contributing to open-source<br>  Learning best practices and modern design pattern.</p>
 
 ###
 
