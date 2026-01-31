@@ -3,7 +3,7 @@
 **`Desenvolvedor Fullstack`**
 
 <p align="left">
-    <a href="www.linkedin.com/in/pedrohstucky">
+    <a href="https://linkedin.com/in/pedrohstucky">
         <img alt="linkedin icon" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/badge/Linkedin-1982c4?style=for-the-badge&logo=linkedin_linkedin"></img>
     </a>
     <a href="mailto:pedrostucky@gmail.com">
