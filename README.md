@@ -43,14 +43,6 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
     />
     <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-    />
-    <img 
-    align="left"
     alt="TypeScript"
     title="TypeScript"
     width="40px"
@@ -83,27 +75,11 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
     />
     <img 
     align="left"
-    alt="BootStrap"
-    title="BootStrap"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-    />
-    <img 
-    align="left"
     alt="Tailwindcss"
     title="Tailwindcss"
     width="40px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-    />
-    <img 
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="50px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
     />
 </p>
 <br>
