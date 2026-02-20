@@ -43,27 +43,11 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
     />
     <img 
     align="left"
-    alt="TypeScript"
-    title="TypeScript"
+    alt="JavaScript"
+    title="JavaScript"
     width="40px"
     style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
-    />
-    <img 
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" 
-    />
-    <img 
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
     />
     <img 
     align="left"
