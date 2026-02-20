@@ -17,7 +17,7 @@
 ## Sobre mim
 
 Tenho 22 anos, sou natural do Rio Grande do Sul e atualmente moro no Paraná. Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo minha trajetória na área de tecnologia com foco em desenvolvimento fullstack.
-Trabalho principalmente com o ecossistema JavaScript, utilizando o próprio JavaScript, TypeScript e Node.js para desenvolver aplicações modernas, organizadas e escaláveis.
+Trabalho principalmente com o ecossistema JavaScript para desenvolver aplicações modernas, organizadas e escaláveis.
 Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não apeans como implementar funcionalidades, mas também os fundamentos por trás das decisões técnicas, boas práticas, arquitetura de software e organização de projetos. Estou sempre estudando e desenvolvendo projetos próprios para evoluir como profissional.
 
 ---
