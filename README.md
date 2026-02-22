@@ -27,19 +27,19 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
 <p>
     <img 
     align="left"
-    alt="CSS3"
-    title="CSS3"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
-    />
-    <img 
-    align="left"
     alt="HTML5"
     title="HTML5"
     width="40px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+    />
+    <img 
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
     />
     <img 
     align="left"
