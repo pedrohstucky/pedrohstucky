@@ -9,9 +9,6 @@
     <a href="mailto:pedrostucky@gmail.com">
         <img alt="Email" title="Call me on email" src="https://custom-icon-badges.demolab.com/badge/-pedrostucky@gmail.com-8ac926?style=for-the-badge&logo=mail&logoColor=white"></img>
     </a>
-    <a href="https://pedrostucky.dev">
-        <img alt="Portfolio" title="My portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfólio-ffca3a?style=for-the-badge&logo=internet&logoColor=black"></img>
-    </a>
 </p>
 
 ## Sobre mim
