@@ -41,22 +41,6 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
-    <img 
-    align="left"
-    alt="Maven"
-    title="Maven"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain-wordmark.svg" 
-    />
-    <img 
-    align="left"
-    alt="Maven"
-    title="Maven"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" 
-    />
 </p>
 <br>
 <br>
