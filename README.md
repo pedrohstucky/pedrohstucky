@@ -17,7 +17,7 @@
 ## Sobre mim
 
 Tenho 22 anos, sou natural do Rio Grande do Sul e atualmente moro no Paraná. Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo minha trajetória na área de tecnologia com foco em desenvolvimento fullstack.
-Trabalho principalmente com o ecossistema JavaScript para desenvolver aplicações modernas, organizadas e escaláveis.
+Trabalho principalmente com o ecossistema Java para desenvolver soluções modernas, organizadas e escaláveis.
 Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não apeans como implementar funcionalidades, mas também os fundamentos por trás das decisões técnicas, boas práticas, arquitetura de software e organização de projetos. Estou sempre estudando e desenvolvendo projetos próprios para evoluir como profissional.
 
 ---
@@ -27,43 +27,35 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
 <p>
     <img 
     align="left"
-    alt="HTML5"
-    title="HTML5"
+    alt="Java"
+    title="Java"
     width="40px"
     style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" 
     />
     <img 
     align="left"
-    alt="CSS3"
-    title="CSS3"
+    alt="Spring"
+    title="Spring"
     width="40px"
     style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
     <img 
     align="left"
-    alt="JavaScript"
-    title="JavaScript"
+    alt="Maven"
+    title="Maven"
     width="40px"
     style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain-wordmark.svg" 
     />
     <img 
     align="left"
-    alt="React"
-    title="React"
+    alt="Maven"
+    title="Maven"
     width="40px"
     style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
-    />
-    <img 
-    align="left"
-    alt="Tailwindcss"
-    title="Tailwindcss"
-    width="40px"
-    style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" 
     />
 </p>
 <br>
