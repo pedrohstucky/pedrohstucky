@@ -1,6 +1,6 @@
 # Olá, Eu sou o Pedro
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Fullstack`**
 
 <p align="left">
     <a href="https://linkedin.com/in/pedrohstucky">
