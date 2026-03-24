@@ -1,6 +1,6 @@
 # Olá, Eu sou o Pedro
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor Back-End`**
 
 <p align="left">
     <a href="https://linkedin.com/in/pedrohstucky">
@@ -13,8 +13,8 @@
 
 ## Sobre mim
 
-Tenho 22 anos, sou natural do Rio Grande do Sul e atualmente moro no Paraná. Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo minha trajetória na área de tecnologia com foco em desenvolvimento fullstack.
-Trabalho principalmente com o ecossistema Java para desenvolver soluções modernas, organizadas e escaláveis.
+Tenho 22 anos, sou natural do Rio Grande do Sul e atualmente moro no Paraná. Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo minha trajetória na área de tecnologia com foco em desenvolvimento backend.
+Trabalho principalmente com o ecossistema Java e Spring Boot para desenvolver soluções modernas, organizadas e escaláveis. Além disso, tenho conhecimento em desenvolvimento web e frontend utilizando JavaScript/TypeScript e React para criar interfaces e páginas com boas práticas de desenvolvimento web moderno.
 Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não apeans como implementar funcionalidades, mas também os fundamentos por trás das decisões técnicas, boas práticas, arquitetura de software e organização de projetos. Estou sempre estudando e desenvolvendo projetos próprios para evoluir como profissional.
 
 ---
@@ -32,11 +32,59 @@ Sou uma pessoa curiosa e gosto de aprender constantemente. Busco entender não a
     />
     <img 
     align="left"
-    alt="Spring"
-    title="Spring"
+    alt="Spring boot"
+    title="Spring boot"
     width="40px"
     style="padding-right: 20px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    />
+    <img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
+    />
+    <img 
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" 
+    />
+    <img 
+    align="left"
+    alt="React"
+    title="React"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+    />
+    <img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" 
+    />
+    <img 
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
+    style="padding-right: 20px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
     />
 </p>
 <br>
